@@ -1,0 +1,14 @@
+tech\codingclub\helix\controller\MainController.class
+tech\codingclub\helix\controller\LoginController.class
+tech\codingclub\helix\Tables.class
+tech\codingclub\helix\entity\WikipediaDownloader.class
+tech\codingclub\helix\controller\NonAPIController.class
+tech\codingclub\helix\entity\WikiResult.class
+tech\codingclub\helix\global\HttpURLConnectionExample.class
+tech\codingclub\helix\entity\TimeApi.class
+tech\codingclub\helix\controller\BaseController.class
+tech\codingclub\helix\tables\records\CodersRecord.class
+tech\codingclub\helix\tables\Coders.class
+tech\codingclub\helix\global\SysProperties.class
+tech\codingclub\helix\Public.class
+tech\codingclub\helix\Keys.class
